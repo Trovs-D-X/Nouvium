@@ -2,9 +2,7 @@
 /*
  * carl/drivers/cpu.c
  *
- * (C) Mau 2026
- * © Gamer Mauri 2026
- *
+ * Copyright (C) 2026 MDFJ
  * CPU Information and Monitoring Driver
  * Provides CPU core detection and load monitoring
  * across Windows, macOS, and Linux platforms
