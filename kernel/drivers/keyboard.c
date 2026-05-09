@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
- * carl/drivers/keyboard.c
+ * carl/drivers/timer.c
  *
- * (C) Mau 2026
+ * Copyright (C) 2026 MDFJ
  *
  * PS/2 Keyboard driver
  * Handles keyboard input and key event processing
