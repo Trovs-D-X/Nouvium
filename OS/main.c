@@ -1,3 +1,7 @@
+/* SPDX-License-Identifier: GPL-2.0-Only
+* Copyright (C) 2026 MDFJ
+* Copyright (c) mauriminuano125-a11y 2026
+* Copyright (c) Fire Mint - Organization official 2026 */
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
