@@ -28,5 +28,9 @@ Before installing, ensure your system meets the following requirements:
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/yourusername/intel-ibx-driver.git](https://github.com/yourusername/intel-ibx-driver.git)
-   cd intel-ibx-driver
+   git clone [https://github.com/MDFJ-Carl/Carl] 
+```
+⚠️: IBx is divided by Intel series. So, it's normal:
+IBx100/
+IBx150/
+others.
