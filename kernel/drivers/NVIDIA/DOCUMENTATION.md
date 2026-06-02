@@ -1,17 +1,17 @@
-# Trovna Documentation
+# Nouvium Documentation
 
 ## About
 
 Trovna is the experimental NVIDIA hardware subsystem for Carl-OS.
 
-The purpose of Trovna is to provide:
+The purpose of Nouvium is to provide:
 - NVIDIA GPU detection
 - PCI hardware communication
 - experimental framebuffer support
 - future graphics acceleration research
 - low-level GPU experiments
 
-Trovna is currently under early development and research.
+Nouvium is currently under early development and research.
 
 ---
 
